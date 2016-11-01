@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonFacebookLogin" type="id">FacebookLogin</item>
+    <item name="buttonGoogleLogin" type="id">GoogleLogin</item>
+    <item name="imageViewLogo" type="id">OutLoudLogo</item>
+    <item name="buttonLogin" type="id">UserLogin</item>
+    <item name="editTextUserEmail" type="id">UserEmail</item>
+    <item name="editTextUserPass" type="id">UserPass</item>
+    <item name="textViewLoginError" type="id">LoginError</item>
+</resources>

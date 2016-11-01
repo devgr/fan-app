@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="emailHint">Email</string>
+    <string name="buttonGoogle">Sign in with Google</string>
+    <string name="buttonLogin">Login</string>
+</resources>

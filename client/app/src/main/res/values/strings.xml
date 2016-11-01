@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OutLoud1.0</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="buttonTextGoogle">Sign in with Google</string>
+    <string name="buttonTextFacebook">Sign in with Facebook</string>
+    <string name="buttonLogin">Login</string>
+    <string name="facebook_app_id">1678318572407301</string>
+</resources>
